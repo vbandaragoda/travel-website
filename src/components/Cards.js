@@ -37,7 +37,7 @@ function Cards() {
                             path='/services'
                         />
                         <CardItem
-                            src={require('../images/img-2.jpg').default}
+                            src={require('../images/img-3.jpg').default}
                             text='Explore the hidden waterfall deep inside the Amazon Jungle'
                             label='Adventure'
                             path='/services'
